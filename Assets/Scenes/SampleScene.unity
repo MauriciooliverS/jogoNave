@@ -11460,7 +11460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6c8b3da42398084995dff6d45fb8615, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1041
+      value: 1040.7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6c8b3da42398084995dff6d45fb8615, type: 3}
       propertyPath: m_LocalRotation.w
@@ -24797,7 +24797,7 @@ MeshCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5078165001277687688, guid: fc1cf382b39b5ff488d798386e639901, type: 3}
 --- !u!1 &1445893565 stripped
@@ -35907,6 +35907,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7409530280675325618, guid: fc1cf382b39b5ff488d798386e639901, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4400956846852cd4cb060205c75c6575, type: 2}
+    - target: {fileID: -4693254304446112126, guid: fc1cf382b39b5ff488d798386e639901, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5257544791053720779, guid: fc1cf382b39b5ff488d798386e639901, type: 3}
     - target: {fileID: 919132149155446097, guid: fc1cf382b39b5ff488d798386e639901, type: 3}
       propertyPath: m_Name
       value: nave
